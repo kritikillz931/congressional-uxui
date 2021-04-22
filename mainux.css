@@ -1,0 +1,60 @@
+/* .Representative {
+    
+} */
+
+.rep_name {
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+
+.rep_district {
+    font-family: sans-serif;
+    color: white;
+}
+
+.rep_spectrum {
+    font-family: sans-serif;
+    color: white;
+    
+}
+
+.rep_committees {
+    font-family: sans-serif;
+    border: 1px dotted;
+    background-color: rgb(250, 199, 199);
+    
+    
+}
+.committee_title {
+    text-decoration: underline;
+}
+
+.back_info {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-style: italic;
+    /* margin: 2rem; */
+}
+
+.header_img {
+    background-image: url("http://seekonkspeedway.com/wp-content/uploads/2017/12/Polyester-American-flag-closeup-angle.jpg");
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    /* margin-left: 10%; */
+}
+
+body {
+    background-color: rgb(241, 217, 217);
+    text-align: center;
+}
+
+
+/* ember made changes XOXOXO -- I couldn't help myself....  */
+.rep_data {
+    background-color: rgba(0, 0, 0, 0.425);
+    padding: 10px;
+    margin-top: 15px;
+}
+
+
